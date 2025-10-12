@@ -9,8 +9,8 @@ showInfo();
 getInput();
 
 const changeStyle = () => {
-    let section_one = document.querySelector("#one");
-    let para = section_one.querySelector("p");
+    let section_box = document.querySelector("#box");
+    let para = section_box.querySelector("p");
     para.style.width = "500px";
     para.style.height = "100px";
     para.style.fontSize = "40px";
