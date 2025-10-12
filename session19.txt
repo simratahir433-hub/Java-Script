@@ -1,0 +1,10 @@
+DOM (Document Object Model)
+                              DOM Tree
+
+                         ---------|HTML|-------
+                        /                       \
+                    |Body|                     |Head|
+                    /    \                     /    \
+          |section1|      |section2|    |title|      |meta|
+             /    \          |
+            |p|      |h2|        |p|
