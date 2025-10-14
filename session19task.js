@@ -14,6 +14,6 @@ const changeStyle = () => {
     para.style.width = "500px";
     para.style.height = "100px";
     para.style.fontSize = "40px";
-    para.style.color = "white";
-    para.style.backgroundColor = "black";
+    para.style.color = "yellow";
+    para.style.backgroundColor = "purple";
 }
